@@ -15,6 +15,7 @@ public static void main(String[] args) {
 		for (int j = 0; j < 4; j++) { 
 			ironman.move(100);
 			ironman.turn(90); 
+			ironman.unSparkle();
 		} 
 		
 		
